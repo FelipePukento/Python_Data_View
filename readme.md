@@ -6,9 +6,9 @@
   <p align="center">
     <samp>
       <b>
-        Software-Proyect for TLP
+        Software-Proyect
       <br>
-        Vicente Gutiérrez; Patricio Aylwin; Maximiliano Del Río; Felipe Riveros
+        Simple table viewer Flask and postgres db
       </b>
       <br>
     </samp>
